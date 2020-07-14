@@ -9,5 +9,13 @@
             "email": "atha.3417@gmail.com",
             "homepage": "http://example.com/"
         }
-    ]
+    ],
+    "require": {
+        "atha/json": "^1.0",
+        "atha/movie-app": "^1.0",
+        "atha/pizza-app": "^1.0",
+        "atha/portfolio": "^1.1",
+        "atha/ci-rest-client": "^1.0",
+        "atha/ci-rest-server": "^1.0"
+    }
 }
