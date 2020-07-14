@@ -1,0 +1,13 @@
+{
+	"name": "atha/rest-api-full",
+    "description": "Just a simple rest-server",
+    "keywords": ["javascript", "json", "api", "rest-server", "rest-api", "rest-client", "php"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
